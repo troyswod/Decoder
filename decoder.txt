@@ -14,3 +14,8 @@ def decode(numbers)
   # Return the decoded string.
   return text
 end
+
+#Takes a string and converts to array of numbers
+def encode(string)
+ #TODO finish
+end
